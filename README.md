@@ -1,7 +1,7 @@
 Unit Coversion
 This is a simple unit converter GUI application built using Tkinter in Python. It allows conversion between lengths and areas with various units.
 
-unit conversion for the following measures:
+Unit conversion for the following measures:
 1. Centimeter to Feets
 2. Feet to inches.
 3. Sqft to Sqmtrs
